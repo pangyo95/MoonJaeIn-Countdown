@@ -1,3 +1,3 @@
 # MoonJaeIn-Countdown
 
-https://moonjaeincounter.ga
+http://moonjaeincounter.ga/
