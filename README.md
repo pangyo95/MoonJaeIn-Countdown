@@ -1,3 +1,3 @@
 # MoonJaeIn-Countdown
 
-https://pangyosex.github.io/MoonJaeIn-Countdown/
+https://pangyo95.github.io/MoonJaeIn-Countdown/
